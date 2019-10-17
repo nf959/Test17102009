@@ -1,5 +1,5 @@
 linia1
-linia2
-linia3
-linia4 w stage :)
+
 linia5
+XXX
+YY
