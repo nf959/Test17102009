@@ -1,7 +1,9 @@
 linia1
-linia2
-linia3
-linia4 w stage :)
+
+Tak ma wygladac plik
+
 linia5
 linia6
 linia7
+XXX
+YY
