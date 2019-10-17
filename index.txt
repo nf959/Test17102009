@@ -1,2 +1,9 @@
 linia1
 
+Tak ma wygladac plik
+
+linia5
+linia6
+linia7
+XXX
+YY
