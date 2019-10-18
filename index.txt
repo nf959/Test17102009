@@ -6,3 +6,4 @@ linia6
 linia7
 XXX
 YY
+ZZZ
