@@ -1,7 +1,6 @@
 linia1
 
-Tak ma wygladac plik
-
+Tak ma wygladac plik finalny
 linia5
 linia6
 linia7
